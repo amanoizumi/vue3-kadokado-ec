@@ -1,0 +1,17 @@
+@layer components {
+  .input-style {
+    @apply mb-6 w-full border-0 border-b border-gray-400 bg-transparent px-0  py-[6px] focus:border-red-600 focus:ring-0;
+    &::placeholder {
+      color: #aaaaaa;
+    }
+    &-file {
+      @apply w-full text-sm text-slate-500 file:mr-4 file:rounded-full file:border-0 file:border-red-100 file:bg-yellow-600 file:py-2 file:px-4 file:text-white file:hover:bg-yellow-800 focus:outline-0;
+    }
+  }
+  .main-button {
+    @apply rounded-sm border-2 border-yellow-600/90 px-3 py-2 text-yellow-700 hover:bg-yellow-600 hover:text-white focus:bg-yellow-600 focus:text-white focus:ring-4 focus:ring-yellow-500/60;
+  }
+  .polygon {
+    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0 80%);
+  }
+}

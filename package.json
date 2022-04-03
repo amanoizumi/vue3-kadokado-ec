@@ -1,0 +1,41 @@
+{
+  "name": "taiwalk-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.2",
+    "@vee-validate/i18n": "^4.5.7",
+    "@vee-validate/rules": "^4.5.7",
+    "@vueuse/core": "^7.5.3",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.24.0",
+    "hover.css": "^2.3.2",
+    "lodash": "^4.17.21",
+    "mitt": "^3.0.0",
+    "swiper": "^8.0.6",
+    "vee-validate": "^4.5.7",
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.0",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@iconify/json": "^1.1.454",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "postcss-import": "^14.0.2",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.4",
+    "tailwindcss": "^3.0.12",
+    "unplugin-icons": "^0.13.0",
+    "unplugin-vue-components": "^0.17.11",
+    "vite": "^2.7.2"
+  }
+}
