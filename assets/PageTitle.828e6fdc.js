@@ -1,0 +1,1 @@
+import{_ as e}from"./index.8d779fa5.js";import{o,c as r,D as s,G as a,_ as n}from"./vendor.93ccd42a.js";const c={props:{title:String}};function _(i,p,t,d,l,f){return o(),r(n,{to:"title"},[s(" - "+a(t.title),1)])}var x=e(c,[["render",_]]);export{x as _};

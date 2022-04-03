@@ -1,0 +1,1 @@
+import{_ as t}from"./index.8d779fa5.js";import{o as s,v as n,G as o}from"./vendor.93ccd42a.js";const r={props:{pageTitle:String}},a={class:"hidden h-10 w-full items-center bg-stone-200 pl-10 text-stone-900 sm:fixed sm:flex"};function c(i,_,e,p,d,l){return s(),n("div",a,o(e.pageTitle),1)}var x=t(r,[["render",c]]);export{x as _};

@@ -1,0 +1,1 @@
+import{_ as o}from"./PageTitle.828e6fdc.js";import{_ as t}from"./index.8d779fa5.js";import{o as n,c as r}from"./vendor.93ccd42a.js";const c={setup(){return{}}};function s(a,_,p,i,f,d){const e=o;return n(),r(e,{title:"\u9580\u5E02\u64DA\u9EDE"})}var x=t(c,[["render",s]]);export{x as default};
